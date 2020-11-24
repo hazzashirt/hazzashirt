@@ -1,7 +1,7 @@
 ## Hi there, I'm Harry 👋
 
 ### :pushpin: At a glance:
-:mag: Looking for a full-time position in security/devsecops ([Resume](http://harrythang.tech/resume))  
+:mag: Looking for a full-time position in security/devsecops ([Resume](https://harrythang.tech/resume/))  
 :mortar_board: M. Information Technology (Cyber Security) @ University of Technology Sydney (2020)  
 :computer: Grade 5/6 Technical Services Officer (Systems Administrator & IT Manager) @ Department of Education  
 :camera_flash: Photography / :volleyball: Volleyball  
@@ -13,7 +13,7 @@
 
 ### :mailbox_with_mail: contact me:
 :email:harry.thang+github@pm.me  
-:book:[my blog](http://harrythang.tech)  
+:book:[my blog](https://harrythang.tech/blog/)  
 
 
 <!--
