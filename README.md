@@ -3,7 +3,7 @@
 ### :pushpin: At a glance:
 :mag: Looking for a full-time position in security/devsecops ([Resume](http://harrythang.tech/resume))  
 :mortar_board: M. Information Technology (Cyber Security) @ University of Technology Sydney (2020)  
-:computer: Grade 5/6 Technical Services Officer @ Department of Education  
+:computer: Grade 5/6 Technical Services Officer (Systems Administrator & IT Manager) @ Department of Education  
 :camera_flash: Photography / :volleyball: Volleyball  
 
 ### :bulb: learning:
